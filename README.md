@@ -6,6 +6,7 @@ Projeto desenvolvido junto com o curso de formação "Desenvolva aplicações We
 Ferramentas utilizadas:
 * HTML
 * CSS
+* JS
 * Web Speech API 
 * Math.random()
 * NaN
